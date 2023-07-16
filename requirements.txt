@@ -1,0 +1,9 @@
+jwt
+
+Django
+
+djangorestframework
+
+
+boto3
+
